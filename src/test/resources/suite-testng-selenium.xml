@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suíte-TestNG Para melhor organização e separando as classes conforme solicitado" >
+    <test name="primeiro fluxo">
+        <classes>
+            <class name="br.ucdb.pos.engenhariasoftware.testesoftware.automacao.selenium.webdriver.Fluxo1"></class>
+        </classes>
+    </test>
+    <test name="segundo fluxo">
+        <classes>
+            <class name="br.ucdb.pos.engenhariasoftware.testesoftware.automacao.selenium.webdriver.Fluxo2"></class>
+        </classes>
+    </test>
+    <test name="terçeiro fluxo">
+        <classes>
+            <class name="br.ucdb.pos.engenhariasoftware.testesoftware.automacao.selenium.webdriver.Fluxo3"></class>
+        </classes>
+    </test>
+    <test name="quarto fluxo">
+        <classes>
+            <class name="br.ucdb.pos.engenhariasoftware.testesoftware.automacao.selenium.webdriver.Fluxo4"></class>
+        </classes>
+    </test>
+    <test name="quinto fluxo">
+        <classes>
+            <class name="br.ucdb.pos.engenhariasoftware.testesoftware.automacao.selenium.webdriver.Fluxo5"></class>
+        </classes>
+    </test>
+</suite>
+
